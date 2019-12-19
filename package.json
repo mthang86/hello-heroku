@@ -1,0 +1,19 @@
+{
+  "name": "hello-heroku",
+  "version": "1.0.0",
+  "description": "hello-heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthang86/hello-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthang86/hello-heroku/issues"
+  },
+  "homepage": "https://github.com/mthang86/hello-heroku#readme"
+}
